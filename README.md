@@ -51,7 +51,7 @@ Login in the Artifactory Web
 ```
 http://localhost:8082/ui/
 ```
-Default password is: admin/password
+Default password is: **admin/password**
 
 ![artifactory_login](./images/artifactory_login.png "artifactory_login")
 
