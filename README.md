@@ -60,3 +60,16 @@ Default password is: **admin/password**
 A new configuration wizard will start. Define the new password and skip the rest of steps
 
 ![artifactory_portal](./images/artifactory_portal.png "artifactory_portal")
+
+## STEP07: Remove arfifactory
+
+If you want remove artifactory execute this command:
+
+```
+$ docker-compose -p rt down
+```
+
+# Some links 
+
+- https://jfrog.com/community/download-artifactory-oss/
+- https://jfrog.com/help/r/jfrog-installation-setup-documentation/artifactory-single-node-docker-compose-installation-using-docker-volumes
