@@ -66,7 +66,7 @@ A new configuration wizard will start. Define the new password and skip the rest
 If you want remove artifactory execute this command:
 
 ```
-$ docker-compose -p rt down
+$ docker-compose -p rt down --rmi all -v
 ```
 
 # Some links 
