@@ -47,7 +47,7 @@ $ docker-compose -p rt up -d
 ![artifactory_stack](./images/artifactory_stack.png "artifactory_stack")
 ## STEP05: Login and configure
 
-Login in the Artifactory Web
+Login in the Artifactory Portal
 ```
 http://localhost:8082/ui/
 ```
