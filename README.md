@@ -69,6 +69,13 @@ If you want remove artifactory execute this command:
 $ docker-compose -p rt down --rmi all -v
 ```
 
+Remove the volumnes manually because there are not created by compose
+
+```
+$ docker volume rm artifactory_data
+$ docker volume rm postgres_data
+```
+
 # Some links 
 
 - https://jfrog.com/community/download-artifactory-oss/
