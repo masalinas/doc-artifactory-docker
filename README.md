@@ -69,7 +69,7 @@ If you want remove artifactory execute this command:
 $ docker-compose -p rt down --rmi all -v
 ```
 
-Remove the volumnes manually because there are not created by compose
+Remove the volumes manually because there are not created by compose
 
 ```
 $ docker volume rm artifactory_data
