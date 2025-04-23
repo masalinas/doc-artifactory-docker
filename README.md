@@ -79,4 +79,4 @@ $ docker volume rm postgres_data
 # Some links 
 
 - [Download Artifactory](https://jfrog.com/community/download-artifactory-oss/) 
-- [Install Artifactory](https://jfrog.com/help/r/jfrog-installation-setup-documentation/artifactory-single-node-docker-compose-installation-using-docker-volumes)
+- [Artifactory Single Node Docker Compose Installation using Docker Volumes](https://jfrog.com/help/r/jfrog-installation-setup-documentation/artifactory-single-node-docker-compose-installation-using-docker-volumes)
